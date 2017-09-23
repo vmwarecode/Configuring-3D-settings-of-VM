@@ -1,1 +1,0 @@
-# Configuring-3D-settings-of-VM
